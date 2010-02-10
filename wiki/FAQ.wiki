@@ -23,7 +23,7 @@
   * No. TrinityAdmin v4 (far future) will be modular, and will support all known cores. This is a long, LONG, way off however.
 
 *Q.* Will Tickets ever be working?
-  * Of course! The Ticket system is our top priority right now, but some chnages to text output in the core need to be done first.
+  * Of course! The Ticket system is our top priority right now, but some chanages to text output in the core need to be done first.
 
 *Q.* I want feature 'X' added!
   * Great! So do we! Submit your ideas to the Issue system on this website as an enhancement so we can check them out.
