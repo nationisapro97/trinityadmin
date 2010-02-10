@@ -2,7 +2,7 @@
 =TrinityAdmin FAQ= 
 
 *Q.* What is TrinityAdmin?
-  * TrinityAdmin is an addon for a popular MMO client which simplifies the job of the server administrator for TrinityCore servers.
+  * TrinityAdmin is a client addon for a popular MMO which simplifies the job of the server administrator for TrinityCore servers.
 
 *Q.* What does it do?
   * TrinityAdmin provides a GUI allowing you to simply click to execute most GM commands.
