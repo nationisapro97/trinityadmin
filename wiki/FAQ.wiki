@@ -17,7 +17,7 @@
   * It might. Set your client to load "Out Of Date Addons". If that doesnt work, edit the TrinityAdmin.toc file, and change the line "## Interface: 30200" to the interface version of your client (see www.wowcompares.com for version numbers). This might work, or it might not, depending on the syntax changes of the server.
   
 *Q.* Will TrinityAdmin work with MaNGOS?
-  * Probably. Trinity was derived from MaNGOS, and as such, the majority of the GM commands are identical. The Ticket system is completely different though, so TrinityAdmin's Ticket system will not function with MaNGOS. There may be other differences as well.
+  * Probably. Trinity was derived from MaNGOS, and as such, the majority of the GM commands are identical. The Ticket system is completely different though, so TrinityAdmin's Ticket system will NOT function with MaNGOS. There may be other differences as well.
 
 *Q.* Will TrinityAdmin work with Arc, Ascent, Hearthstone, or other emulator cores?
   * No. TrinityAdmin v4 (far future) will be modular, and will support all known cores. This is a long, LONG, way off however.
