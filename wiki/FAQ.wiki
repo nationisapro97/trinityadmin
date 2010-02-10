@@ -14,7 +14,7 @@
   * TrinityAdmin currently supports v3.1.3, and v3.2.2a. v3.3.0a support is planned. For support of older versions, try MangAdmin (http://code.google.com/p/mangadmin)
 
 *Q.* Will TrinityAdmin work with other versions of the client?
-  * It might. Set your client to load "Out Of Date Addons". If that doesnt work, edit the TrinityAdmin.toc file, and change the line "## Interface: 30200" to the inteface version of your client (see www.wowcompares.com for version numbers). This might work, or it might not, depending on the syntax changes of the server.
+  * It might. Set your client to load "Out Of Date Addons". If that doesnt work, edit the TrinityAdmin.toc file, and change the line "## Interface: 30200" to the interface version of your client (see www.wowcompares.com for version numbers). This might work, or it might not, depending on the syntax changes of the server.
   
 *Q.* Will TrinityAdmin work with MaNGOS?
   * Probably. Trinity was derived from MaNGOS, and as such, the majority of the GM commands are identical. The Ticket system is completely different though, so TrinityAdmin's Ticket system will not function with MaNGOS. There may be other differences as well.
