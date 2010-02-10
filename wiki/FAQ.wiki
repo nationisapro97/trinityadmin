@@ -1,5 +1,5 @@
 #labels Featured
-=TrinityAdmin FAQ=
+=TrinityAdmin FAQ= 
 
 *Q.* What is TrinityAdmin?
   * TrinityAdmin is an addon for a popular MMO client which simplifies the job of the server administrator for TrinityCore servers.
@@ -27,4 +27,3 @@
 
 *Q.* I want feature 'X' added!
   * Great! So do we! Submit your ideas to the Issue system on this website as an enhancement so we can check them out.
-
